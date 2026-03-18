@@ -1,0 +1,22 @@
+step1: 
+saved openAI : API key in .env file
+
+step2:
+from dotenv import load_dotenv
+
+load_dotenv(override=True) --> to override the exisiting API ket if any. 
+
+step3:
+from openai import openAI
+
+openai = openAI()  --> making a reference
+
+
+step4:
+message = [{
+
+        "role" : "user/system"
+        "content": question
+}]
+
+responce = openai.chat.completions.create(model="gpt4.1-mini", message=message)
