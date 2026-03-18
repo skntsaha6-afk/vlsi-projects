@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "trading_agent",
+			"path": "../../trading_agent"
+		},
+		{
+			"name": "functions",
+			"path": "."
+		},
+		{
+			"name": "python_practice",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}

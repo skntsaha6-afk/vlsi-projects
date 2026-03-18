@@ -1,0 +1,5 @@
+Path1 slack -0.12
+Path2 slack 0.45
+Path3 slack -0.30
+Path4 slack 0.10
+Path5 slack -0.20
