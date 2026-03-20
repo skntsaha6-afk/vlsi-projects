@@ -47,7 +47,7 @@ class DRCGPTAnalyzer():
             {"role": "user", "content": 
                         f"""
                             Analyze the DRC report and suggest fixes. 
-                            Focus only on Metal Violations.                          
+                                                      
                             LOG: \n{self.report}
                         """
             }
