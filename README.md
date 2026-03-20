@@ -25,3 +25,4 @@ building Agentic AI systems for VLSI/EDA automation and algorithmic trading.
 
 ## Connect
 Built in public — follow the journey on LinkedIn.
+#**Profile** : www.linkedin.com/in/sukantasahawb
