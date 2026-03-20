@@ -1,7 +1,7 @@
 # VLSI AI Tools — EDA Automation with GPT-4
 
 AI-powered EDA tools built by a Senior EDA Tools & Hardware Engineer at Intel.
-Combining 10+ years of VLSI domain expertise with modern LLM technology.
+Combining 5+ years of VLSI domain expertise with modern LLM technology.
 
 ## Problem This Solves
 EDA engineers spend hours manually reading DRC reports, timing logs,
