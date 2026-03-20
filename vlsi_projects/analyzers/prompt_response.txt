@@ -1,0 +1,24 @@
+{
+  "violations": [
+    {
+      "rule": "METAL1_SPACING",
+      "severity": "Medium",
+      "count": 2,
+      "fix": "Increase the spacing between Metal1 routing segments to meet the minimum spacing requirements."
+    },
+    {
+      "rule": "METAL2_SPACING",
+      "severity": "High",
+      "count": 5,
+      "fix": "Increase the spacing between Metal2 routing segments as per design rules. Review and adjust the routing layers to prevent short circuits and ensure manufacturability."
+    },
+    {
+      "rule": "VIA_OVERLAP",
+      "severity": "High",
+      "count": 2,
+      "fix": "Adjust via placement to ensure it fully overlaps both metal layers it connects. Resize or reposition the via to comply with overlap rules."
+    }
+  ],
+  "priority_fix": "METAL2_SPACING",
+  "estimated_fix_time": "4-6 hours"
+}
