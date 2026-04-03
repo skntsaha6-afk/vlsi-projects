@@ -1,11 +1,37 @@
-# Python-generated files
+# Python bytecode & build artifacts
 __pycache__/
-*.py[oc]
+*.py[cod]
+*.egg-info
 build/
 dist/
 wheels/
-*.egg-info
 
 # Virtual environments
-.venv
+.venv/
+venv/
+
+# Environment and secrets
 .env
+.env.*
+
+# Logs and local data
+*.log
+logs/
+
+# Editors/IDEs
+.DS_Store
+.vscode/
+*.code-workspace
+
+# Tooling artifacts
+.pytest_cache/
+.mypy_cache/
+.coverage
+coverage.xml
+uv.lock.backup
+
+# Project-specific
+trading_agent/venv/
+trading_agent/logs/
+trading_agent/.env*
+trading_agent/.env_openai
