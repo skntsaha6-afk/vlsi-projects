@@ -9,6 +9,7 @@ Build a portfolio that combines agentic AI experimentation with VLSI-focused too
 - `open_ai/` — assorted OpenAI API practice scripts.
 - `tools/` — small utilities and one-off helpers.
 - `steps_for_env_setup` — personal environment bootstrap notes.
+- `docs/` — quick map to the most relevant documentation across projects.
 
 ## How to Work With This Repo
 1. Use `python -m venv .venv && source .venv/bin/activate` (or your preferred env) at the root; install deps from `requirement.txt` if needed.
@@ -20,3 +21,8 @@ Build a portfolio that combines agentic AI experimentation with VLSI-focused too
 - Focus: Agentic AI workflows, LangChain tooling, and VLSI debug automation.
 - Recent highlight: LangChain-based DRC analyzer that returns structured JSON for downstream automation.
 - Comfort zone: Python, prompts/LLMs, EDA-oriented debugging flows, and applied scripting.
+
+## Docs Shortcuts
+- Docs map: `docs/README.md`
+- Trading bot overview: `trading_agent/README.md`
+- VLSI analyzer summary: `python_practice/vlsi_projects/analyzers/langchain_drc_chain_change_summary.md`
