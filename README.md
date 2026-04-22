@@ -7,7 +7,7 @@ building Agentic AI systems for VLSI/EDA automationn.
 
 | Folder | Description | Status |
 |---|---|---|
-| `python_practice` | AI-powered EDA automation tools | Active |
+| `Agentic_AI` | AI-powered EDA automation tools | Active |
 
 ## Goal
 - Switch to Agentic AI Engineer role in VLSI/EDA domain
