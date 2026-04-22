@@ -15,7 +15,7 @@ building Agentic AI systems for VLSI/EDA automationn.
 
 ## Progress
 - [x] Month 1 — Python OOP, OpenAI API, Prompt Engineering
-- [ ] Month 2 — LangChain Agents, Streamlit, FastAPI
+- [x] Month 2 — LangChain Agents, Streamlit, FastAPI
 - [ ] Month 3 — RAG Systems, ChromaDB, LlamaIndex
 - [ ] Month 4 — Multi-Agent AI, CrewAI, LangGraph
 - [ ] Month 5 — EDA Flow Automation Agent
