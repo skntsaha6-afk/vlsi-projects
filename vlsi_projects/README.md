@@ -85,11 +85,11 @@ uv run python python_practice/vlsi_projects/analyzers/gpt_drc_analyzer_with_prom
 - [x] Week 1 — DRC Analyzer OOP class
 - [x] Week 2 — OpenAI GPT-4 integration
 - [x] Week 3 — Prompt engineering, structured JSON output
-- [ ] Week 4 — GitHub organisation and documentation
-- [ ] Week 5 — LangChain chain integration
-- [ ] Week 6 — LangChain agent with tools
-- [ ] Week 7 — Streamlit web UI
-- [ ] Week 8 — FastAPI backend — PROJECT 1 COMPLETE
+- [x] Week 4 — GitHub organisation and documentation
+- [x] Week 5 — LangChain chain integration
+- [x] Week 6 — LangChain agent with tools
+- [x] Week 7 — Streamlit web UI
+- [x] Week 8 — FastAPI backend — PROJECT 1 COMPLETE
 
 ## Coming Soon
 
